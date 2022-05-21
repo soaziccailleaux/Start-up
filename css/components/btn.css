@@ -1,0 +1,14 @@
+.btn{
+	background-color: #ED69A1;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-style: 0;
+	text-decoration: none;
+	font-family: 'Playfair Display', serif;
+	font-size: 30px
+}
+.btn:hover{
+	background-color:white;
+	color: #ED69A1;
+}

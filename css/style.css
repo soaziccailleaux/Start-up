@@ -1,0 +1,22 @@
+@import url("components/container.css");
+@import url("components/btn.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+p{
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	text-align: justify;
+	text-indent: all;
+	letter-spacing: 0,1px;
+	color: black;
+}
+
+h1,h2,h3{
+	font-family: 'Playfair Display', serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+body{
+	background-color: rgb(250,250,250);
+}
